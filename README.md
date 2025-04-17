@@ -44,9 +44,9 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 
 **🤖 Agent 规划与执行过程：**
 
-![Step 1 - Planner 分解任务](images/fn1_1.png)  
-![Step 2 - 多 Agent 协作](images/fn1_2.png)
-![Step 3 - 输出最终回答](images/func1_3.png)
+![Step 1 - Planner 分解任务](images/fn1_1.jpg)  
+![Step 2 - 多 Agent 协作](images/fn1_2.jpg)
+![Step 3 - 输出最终回答](images/func1_3.jpg)
 
 **✅ 最终回答：**
 
@@ -73,8 +73,8 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 
 **🔍 工具调用过程：**
 
-![Step 1 - planer分解问题步骤](images/fn2_1.png)  
-![Step 2 - execute执行后总结回答](images/fn2_2.png)
+![Step 1 - planer分解问题步骤](images/fn2_1.jpg)  
+![Step 2 - execute执行后总结回答](images/fn2_2.jpg)
 
 **✅ 最终回答：**
 
@@ -104,10 +104,10 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 
 **🧠 Plan & Agent 执行：**
 
-![Step 1 - 第一轮planer分析步骤](images/fn3_1.png)  
-![Step 2 - 第一轮执行与回答](images/func3_2.png)  
-![Step 3 - 第二轮上下文记忆推理](images/func3_3.png)
-![Step 4 - 第二轮上下文记忆执行与回答](images/func3_4.png)
+![Step 1 - 第一轮planer分析步骤](images/fn3_1.jpg)  
+![Step 2 - 第一轮执行与回答](images/func3_2.jpg)  
+![Step 3 - 第二轮上下文记忆推理](images/func3_3.jpg)
+![Step 4 - 第二轮上下文记忆执行与回答](images/func3_4.jpg)
 
 
 🚀 快速开始
