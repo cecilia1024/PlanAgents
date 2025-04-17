@@ -9,7 +9,7 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 > 点击上方链接查看视频演示
 
 ---
-### 🤖 在线体验我的对话机器人（无数据库连接版本）
+### 🤖 点击体验我的对话机器人（无数据库连接版本）
 
 [![点击体验](https://github.com/cecilia1024/PlanAgents/blob/main/images/chatbot.png?raw=true)](https://huggingface.co/spaces/Veraakk/AIAgent_GH)
 
