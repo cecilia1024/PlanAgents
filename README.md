@@ -4,7 +4,7 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 
 ### 🎥 Demo Preview
 
-[![点击跳转哔哩哔哩查看演示视频](https://www.bilibili.com/video/BV1qY5vzmEw2/?vd_source=5a14839b1e34859082350f552771e705)
+[点击跳转哔哩哔哩查看演示视频](https://www.bilibili.com/video/BV1qY5vzmEw2/?vd_source=5a14839b1e34859082350f552771e705)
 
 > 点击上方链接查看视频演示
 
