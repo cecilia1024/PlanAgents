@@ -23,19 +23,12 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 
 **🧠 Plan：**
 
-1.	Count the number of orders placed by each customer and sort them to identify the customer with the highest purchase frequency.
-2.	Retrieve the most recent purchase date from that customer’s order history.
-3.	Filter all platform-wide orders that were placed on that specific date.
-4.	Aggregate and rank the products sold on that date based on sales volume.
-5.	Identify the top-selling product of the day (specify how ties are handled, if applicable).
-6.	Given the above steps taken, please respond to the user’s original question.
-
 1. 确定购买次数最多的客户: 统计每个客户的订单数量并排序，选择订单量最大的客户。
 2. 获取该客户最近一次购买的日期: 从该客户的订单记录中提取最新订单日期
 3. 筛选该日期内所有订单: 包括平台当日所有用户的订单数据
 4. 统计当日商品销量: 对当日所有订单中的商品按销售数量汇总排序
 5. 输出销量最高的商品: 选择销量最高的商品（处理并列情况需说明）
-6. 在完成以上步骤后，请回答用户最初的问题。
+6. 在完成以上步骤后，请回答用户最初的问题。>
 
 **🤖 Agent 规划与执行过程：**
 
@@ -59,12 +52,6 @@ PlanAgents is a LangChain-based multi-agent framework leveraging LLMs for plan-e
 > “帮我查找今天深圳的天气怎么样，近期有什么重大新闻事件”
 
 **🧠 系统规划 Plan：**
-
-1. Access a reliable weather API or website to retrieve the current weather conditions and forecast for Shenzhen today.
-2. Scrape or check credible news sources (e.g., official news portals, reputable media outlets) for the latest major news events related to Shenzhen or nationally, focusing on timeliness and relevance.
-3. Summarize the weather data and highlight key news updates concisely.
-4. Verify the accuracy of the gathered information by cross-referencing multiple sources if necessary.
-5. Given the above steps taken, please respond to the users original question.
 
 1.	访问可靠的天气 API 或网站，获取深圳今天的当前天气状况和天气预报。
 2.	从可信的新闻来源（如官方新闻门户网站、知名媒体）抓取或查看与深圳或全国相关的最新重大新闻事件，重点关注时效性和相关性。
